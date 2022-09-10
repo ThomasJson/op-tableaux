@@ -1,9 +1,10 @@
 import './App.css';
+import BaseScreen from './screens/baseScreen/BaseScreen';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello Tableaux</h1>
+      <BaseScreen />
     </div>
   );
 }
