@@ -6,11 +6,11 @@ const baseScreen = () => {
   return (
     <div>
       <header>
-        <h1>Hello Tableaux</h1>
+        <h1>My Big Brain</h1>
       </header>
       <HomeScreen />
       <footer>
-        <h2>Mon super Pied</h2>
+        <h2>A Sexy Foot</h2>
       </footer>
     </div>
   );
